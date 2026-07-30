@@ -44,10 +44,9 @@ target.min.js
 
 ! modified easylist easyprivacy general list
 gen_204?
-client_204?$
-csi_204?$
+client_204?
+csi_204?
 &cx=c&gtm=
-&ep.analytics_storage=
 &event_name=page_view&
 &ga_blocked=$image
 &l=dataLayer&cx=c
