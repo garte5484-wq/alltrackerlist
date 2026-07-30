@@ -25,8 +25,6 @@ trck
 trace
 
 /watchdog/
-stat.
-stat?
 miner.js
 miner.min.js
 tag.js
@@ -39,6 +37,9 @@ target.js
 target.min.js
 log.
 log?
+stat?
+stat-
+stat.
 stats?
 stats-
 stats.
