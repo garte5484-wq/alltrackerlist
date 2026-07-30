@@ -1,5 +1,3 @@
-stats
-statistic
 track
 analyt
 counter
@@ -41,6 +39,15 @@ target.js
 target.min.js
 log.
 log?
+stats?
+stats-
+stats.
+statistic?
+statistic-
+statistic.
+statistics?
+statistics-
+statistics.
 
 ! modified easylist easyprivacy general list
 gen_204?
