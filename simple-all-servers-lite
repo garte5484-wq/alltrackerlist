@@ -14,7 +14,6 @@ target
 collect
 fingerprint
 beacon
-geo
 touch
 click
 counter
