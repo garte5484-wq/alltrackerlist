@@ -11,3 +11,6 @@ metric
 conver
 target
 collect
+fingerprint
+logger
+beacon
