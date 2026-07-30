@@ -29,6 +29,7 @@ trace
 
 /watchdog/
 stat.
+stat?
 miner.js
 miner.min.js
 tag.js
@@ -40,6 +41,7 @@ target?
 target.js
 target.min.js
 log.
+log?
 
 ! modified easylist easyprivacy general list
 gen_204?
