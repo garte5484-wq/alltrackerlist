@@ -1,18 +1,15 @@
 track
 analyt
-counter
 visits
 visitors
 listener
 views
 metric
 metrik
-conver
 target
 fingerprint
 beacon
 touch
-counter
 tagging
 telemery
 traffic
@@ -178,5 +175,4 @@ do/api/plausible/?id=$
 /tealiumTagsData.js
 /tenant.min.js
 tealeaf
-/tck/gif/
 /tccl.min.js
